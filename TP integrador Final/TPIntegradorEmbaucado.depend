@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1719196824 source:d:\programacion 1 - tp integrador\tp integrador\probandovectores\main.cpp
+	<iostream>
+	<random>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<conio.h>
+
+1719196683 d:\programacion 1 - tp integrador\tp integrador\probandovectores\funciones.h
+
+1719196794 source:d:\programacion 1 - tp integrador\tp integrador\probandovectores\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<algorithm>
+	<cstdlib>
+
+1719354243 source:d:\programacion 1 - tp integrador\tp integrador desde cero- probando vectores\probandovectores\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<algorithm>
+	<cstdlib>
+
+1719278059 d:\programacion 1 - tp integrador\tp integrador desde cero- probando vectores\probandovectores\funciones.h
+
+1719354224 source:d:\programacion 1 - tp integrador\tp integrador desde cero- probando vectores\probandovectores\main.cpp
+	<iostream>
+	<random>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<conio.h>
+
+1719364288 source:d:\programacion 1 - tp integrador\tp integrador desde cero- probando vectores\probandovectores - copia\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<algorithm>
+	<cstdlib>
+	<conio.h>
+	<thread>
+	<chrono>
+
+1719363989 d:\programacion 1 - tp integrador\tp integrador desde cero- probando vectores\probandovectores - copia\funciones.h
+
+1719364335 source:d:\programacion 1 - tp integrador\tp integrador desde cero- probando vectores\probandovectores - copia\main.cpp
+	<iostream>
+	<random>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<conio.h>
+	<thread>
+	<chrono>
+
+1719374519 source:d:\programacion 1 - tp integrador\tp integrador final - falta formateo cout\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<algorithm>
+	<cstdlib>
+	<conio.h>
+	<thread>
+	<chrono>
+
+1719371745 d:\programacion 1 - tp integrador\tp integrador final - falta formateo cout\funciones.h
+
+1719374563 source:d:\programacion 1 - tp integrador\tp integrador final - falta formateo cout\main.cpp
+	<iostream>
+	<random>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<conio.h>
+	<thread>
+	<chrono>
+
+1719374519 source:d:\programacion 1 - tp integrador\tp integrador final - falta formateo cout - copia\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<algorithm>
+	<cstdlib>
+	<conio.h>
+	<thread>
+	<chrono>
+
+1719371745 d:\programacion 1 - tp integrador\tp integrador final - falta formateo cout - copia\funciones.h
+
+1719374563 source:d:\programacion 1 - tp integrador\tp integrador final - falta formateo cout - copia\main.cpp
+	<iostream>
+	<random>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<conio.h>
+	<thread>
+	<chrono>
+
+1719434039 source:d:\programacion 1 - tp integrador\tp integrador final\main.cpp
+	<iostream>
+	<random>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<conio.h>
+	<thread>
+	<chrono>
+
+1719371745 d:\programacion 1 - tp integrador\tp integrador final\funciones.h
+
+1719438568 source:d:\programacion 1 - tp integrador\tp integrador final\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<algorithm>
+	<cstdlib>
+	<conio.h>
+	<thread>
+	<chrono>
+
+1719441261 source:c:\users\noxiepc\downloads\tp integrador final-20240929t090523z-001\tp integrador final\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<algorithm>
+	<cstdlib>
+	<conio.h>
+	<thread>
+	<chrono>
+
+1719441261 c:\users\noxiepc\downloads\tp integrador final-20240929t090523z-001\tp integrador final\funciones.h
+
+1719441261 source:c:\users\noxiepc\downloads\tp integrador final-20240929t090523z-001\tp integrador final\main.cpp
+	<iostream>
+	<random>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<conio.h>
+	<thread>
+	<chrono>
+
